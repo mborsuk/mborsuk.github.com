@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## Contact {{ site.author.name }}
+## {{ site.author.name }}
 
 email: {{ site.author.email }}
 
